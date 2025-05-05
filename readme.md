@@ -89,4 +89,5 @@ Este projeto tem como finalidade o ensino de estruturas de dados básicas com fo
 
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido para fins didáticos no IFSULDEMINAS - Campus Machado (Amanda Dias Alves Ferreira; Laura Evelyn Neves Oliveira).
+Projeto desenvolvido para fins didáticos no IFSULDEMINAS - Campus Machado
+(Amanda Dias Alves Ferreira; Laura Evelyn Neves Oliveira).
